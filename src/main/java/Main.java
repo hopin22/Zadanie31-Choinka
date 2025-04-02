@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    int wysokosc = 10;
+    int wysokosc = 5;
 
     // Odwrócony trójkąt prostokątny
     for (int i = 0; i < wysokosc; i++) {
